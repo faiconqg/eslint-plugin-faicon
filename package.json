@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-faicon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-jsx": "^0.0.2",
+    "eslint-plugin-react": "^7.13.0",
+    "mocha": "^6.1.4"
+  }
+}
