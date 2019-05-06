@@ -1,9 +1,8 @@
 {
   "name": "eslint-plugin-faicon",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "version": "1.0.1",
   "main": "lib/index.js",
+  "license": "MIT",
   "scripts": {
     "test": "mocha ./tests/**/*.js"
   },
