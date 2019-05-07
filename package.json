@@ -1,6 +1,7 @@
 {
   "name": "eslint-plugin-faicon",
   "version": "1.0.3",
+  "description": "Eslint plugins to optmize Material-ui and React development. https://github.com/faiconqg/eslint-plugin-faicon",
   "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
